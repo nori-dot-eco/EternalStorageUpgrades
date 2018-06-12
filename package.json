@@ -1,0 +1,26 @@
+{
+  "name": "EternalStorageUpgrades",
+  "version": "0.0.1",
+  "description": "Ethereum contract upgrades using Eternal Storage",
+  "main": "index.js",
+  "repository": "git@github.com:nori-dot-eco/EternalStorageUpgrades.git",
+  "author": "jaycen@nori.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "truffle": "^4.1.11",
+    "web3": "^1.0.0-beta.34",
+    "zeppelin-solidity": "^1.10.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-plugin-dynamic-import-node": "^1.2.0",
+    "ethereumjs-abi": "^0.6.5",
+    "prettier": "^1.13.5"
+  }
+}
