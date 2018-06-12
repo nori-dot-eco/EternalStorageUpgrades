@@ -1,5 +1,5 @@
 {
-  "name": "EternalStorageUpgrades",
+  "name": "@noridoteco/es-upgrades",
   "version": "0.0.1",
   "description": "Ethereum contract upgrades using Eternal Storage",
   "main": "index.js",
