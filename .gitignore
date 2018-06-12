@@ -80,3 +80,6 @@ nori-website/yarn.lock
 nori-marketing/yarn.lock
 
 k8s/local/secrets.yaml
+
+# vscode
+.vscode
